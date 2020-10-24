@@ -15,9 +15,8 @@
     "jsx": "preserve"
   },
   "files": [
-    "./node_modules/solid-scripts/types/solid-app.d.ts"
+    "./node_modules/solid-scripts/types/solid-app.d.ts",
+    "./node_modules/@shoelace-style/shoelace/dist/types/index.d.ts"
   ],
-  "include": [
-    "src"
-  ]
+  "include": ["src"]
 }
